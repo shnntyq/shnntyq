@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @shnntyq
-- 👀 I’m interested in Music and Video Games
 - 🌱 I’m currently learning Javascript and Python
 - 📫 How to reach me ...
 
