@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @shnntyq
-- 🌱 I’m currently learning Javascript and Python
-- 📫 How to reach me ...
+- 🌱 C++, JavaScript and Python
+- 📫 www.linkedin.com/in/styq
 
 <!---
 shnntyq/shnntyq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
