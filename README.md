@@ -1,5 +1,4 @@
-- 🌱 C++, JavaScript and Python
-- 📫 www.linkedin.com/in/styq
+📫 www.linkedin.com/in/styq
 
 <!---
 shnntyq/shnntyq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
